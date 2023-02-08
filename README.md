@@ -14,7 +14,7 @@ Cabe destacar que todo esto es con el uso de StatefulWidgets para el manejo del 
 
 ![Screenshot_1675883812](https://user-images.githubusercontent.com/52678639/217631118-8f7d66e1-086d-4ae6-bb3a-0fd327ee8388.png)
 
-**Página de configuración (Se configura el contador)
+## Página de configuración (Se configura el contador)
 
 ![Screenshot_1675883836](https://user-images.githubusercontent.com/52678639/217631262-47b2a4d3-2f23-40c1-8607-dc0d4e945330.png)
 
